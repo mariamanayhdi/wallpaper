@@ -58,7 +58,7 @@
     "PlayerIcom": "https://play-lh.googleusercontent.com/R6Xysk2Cs-jlS_CbdjjtXdnZjfXefz4LZ_Rgcpg1qAujC6jpfr9trr6o7RKPaISOoSQ0TgFow8ojQcbCMJ7LjA=w480-h960-rw",
     "PlayerName": "FlixPlayer",
     "PlayInPlayer": false,
-    "ShowMainHome": true,
+    "ShowMainHome": false,
     "PlayerPackageAmazon": "com.mediadock.flixmax"
   },
   "updates": {
