@@ -6,25 +6,7 @@
       "stylecards": 5,
       "SportScores": [
         {
-          "Time": "Sun 16:00",
-      "League": "Spanish Football",
-      "Stadium": "",
-      "Team1Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team1Name": "Real Madrid",
-      "Team2Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team2Name": "Málaga"
-    },
-    {
-      "Time": "Sun 18:30",
-      "League": "Spanish Football",
-      "Stadium": "",
-      "Team1Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team1Name": "Deportivo La Coruña",
-      "Team2Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team2Name": "Valencia"
-    },
-    {
-      "Time": "18:30",
+      "Time": "Monday 31 Aug, 18:30",
       "League": "Spanish Football",
       "Stadium": "",
       "Team1Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
@@ -33,16 +15,7 @@
       "Team2Name": "Getafe"
     },
     {
-      "Time": "Sun 20:30",
-      "League": "Spanish Football",
-      "Stadium": "",
-      "Team1Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team1Name": "Celta de Vigo",
-      "Team2Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
-      "Team2Name": "Athletic Club"
-    },
-    {
-      "Time": "Mon 20:30",
+      "Time": "Monday 31 Aug, 20:30",
       "League": "Spanish Football",
       "Stadium": "",
       "Team1Logo": "https://images.seeklogo.com/logo-png/12/1/spain-logo-png_seeklogo-129961.png",
